@@ -3,7 +3,7 @@ Converts seconds to human readable format - up to aeons!!!
 
 # Compile
 
-You'll need Crystal Lang - this is tested with `0.31.1`
+You'll need Crystal Lang - this is tested with `1.2.1`
 
 ```
 crystal build /location/to/source/seconds_to_human_readable.cr --static --release --progress
